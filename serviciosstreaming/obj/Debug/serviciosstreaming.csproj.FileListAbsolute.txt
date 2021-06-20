@@ -1,0 +1,207 @@
+C:\Users\LasAv\source\repos\serviciosstreaming\serviciosstreaming\bin\Debug\serviciosstreaming.exe.config
+C:\Users\LasAv\source\repos\serviciosstreaming\serviciosstreaming\bin\Debug\serviciosstreaming.exe
+C:\Users\LasAv\source\repos\serviciosstreaming\serviciosstreaming\bin\Debug\serviciosstreaming.pdb
+C:\Users\LasAv\source\repos\serviciosstreaming\serviciosstreaming\obj\Debug\serviciosstreaming.csprojAssemblyReference.cache
+C:\Users\LasAv\source\repos\serviciosstreaming\serviciosstreaming\obj\Debug\serviciosstreaming.Form1.resources
+C:\Users\LasAv\source\repos\serviciosstreaming\serviciosstreaming\obj\Debug\serviciosstreaming.Properties.Resources.resources
+C:\Users\LasAv\source\repos\serviciosstreaming\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.GenerateResource.cache
+C:\Users\LasAv\source\repos\serviciosstreaming\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.CoreCompileInputs.cache
+C:\Users\LasAv\source\repos\serviciosstreaming\serviciosstreaming\obj\Debug\serviciosstreaming.exe
+C:\Users\LasAv\source\repos\serviciosstreaming\serviciosstreaming\obj\Debug\serviciosstreaming.pdb
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (2)\serviciosstreaming\bin\Debug\serviciosstreaming.exe.config
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (2)\serviciosstreaming\bin\Debug\serviciosstreaming.exe
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (2)\serviciosstreaming\bin\Debug\serviciosstreaming.pdb
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.csprojAssemblyReference.cache
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.Form1.resources
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.Properties.Resources.resources
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.GenerateResource.cache
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.CoreCompileInputs.cache
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.exe
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.pdb
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.Login.resources
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (2)\serviciosstreaming\bin\Debug\Libary.dll
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (2)\serviciosstreaming\bin\Debug\Libary.pdb
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.CopyComplete
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.Bienvenida.resources
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.Principal.resources
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.Regis.resources
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\serviciosstreaming.exe.config
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\serviciosstreaming.exe
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\serviciosstreaming.pdb
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.csprojAssemblyReference.cache
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.Principal.resources
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.Properties.Resources.resources
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.GenerateResource.cache
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.CoreCompileInputs.cache
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.CopyComplete
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.exe
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.pdb
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (4)\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.AssemblyReference.cache
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (4)\serviciosstreaming\obj\Debug\serviciosstreaming.Form1.resources
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (4)\serviciosstreaming\obj\Debug\serviciosstreaming.Principal.resources
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (4)\serviciosstreaming\obj\Debug\serviciosstreaming.Properties.Resources.resources
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (4)\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.GenerateResource.cache
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (4)\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.CoreCompileInputs.cache
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (4)\serviciosstreaming\obj\Debug\serviciosstreaming.exe
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (4)\serviciosstreaming\obj\Debug\serviciosstreaming.pdb
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (4)\serviciosstreaming\bin\Debug\serviciosstreaming.exe.config
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (4)\serviciosstreaming\bin\Debug\serviciosstreaming.exe
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (4)\serviciosstreaming\bin\Debug\serviciosstreaming.pdb
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (4)\serviciosstreaming\bin\Debug\Elementos.dll
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (4)\serviciosstreaming\bin\Debug\Elementos.pdb
+C:\Users\melis\OneDrive\Escritorio\Nueva carpeta (4)\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.CopyComplete
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\Google.Protobuf.dll
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\Zstandard.Net.dll
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\System.Memory.dll
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\System.Buffers.dll
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\MySql.Data.xml
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\Google.Protobuf.pdb
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\Google.Protobuf.xml
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\System.Memory.xml
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\System.Buffers.xml
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\serviciosstreaming.exe.config
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\serviciosstreaming.exe
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\serviciosstreaming.pdb
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\Elementos.dll
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\Google.Protobuf.dll
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\Zstandard.Net.dll
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\System.Memory.dll
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\System.Buffers.dll
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\Elementos.pdb
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\Elementos.dll.config
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\MySql.Data.xml
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\Google.Protobuf.pdb
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\Google.Protobuf.xml
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\System.Memory.xml
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\System.Buffers.xml
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.AssemblyReference.cache
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.Form1.resources
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.frmPeliculas.resources
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.Principal.resources
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.Properties.Resources.resources
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.GenerateResource.cache
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.CoreCompileInputs.cache
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.CopyComplete
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.exe
+C:\Users\Velasques\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.pdb
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.frmInicio.resources
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.frmAgregarPeliculas.resources
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.frmAgregarActores.resources
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.frmAgregarTipos.resources
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.frmAgregarPlataforma.resources
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.frmAgregarGeneros.resources
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.frmAgregarDirectores.resources
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.frmMostrarPelicula.resources
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\serviciosstreaming.exe.config
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\serviciosstreaming.exe
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\serviciosstreaming.pdb
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\Elementos.dll
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\Google.Protobuf.dll
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\Zstandard.Net.dll
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\System.Memory.dll
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\System.Buffers.dll
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\Elementos.pdb
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\Elementos.dll.config
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\MySql.Data.xml
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\Google.Protobuf.pdb
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\Google.Protobuf.xml
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\System.Memory.xml
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\System.Buffers.xml
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.AssemblyReference.cache
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\obj\Debug\serviciosstreaming.frmAgregarActores.resources
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\obj\Debug\serviciosstreaming.frmAgregarDirectores.resources
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\obj\Debug\serviciosstreaming.frmAgregarGeneros.resources
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\obj\Debug\serviciosstreaming.frmAgregarPlataforma.resources
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\obj\Debug\serviciosstreaming.frmAgregarTipos.resources
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\obj\Debug\serviciosstreaming.frmInicio.resources
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\obj\Debug\serviciosstreaming.frmAgregarPeliculas.resources
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\obj\Debug\serviciosstreaming.frmMostrarPelicula.resources
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\obj\Debug\serviciosstreaming.Principal.resources
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\obj\Debug\serviciosstreaming.Properties.Resources.resources
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.GenerateResource.cache
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.CoreCompileInputs.cache
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.CopyComplete
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\obj\Debug\serviciosstreaming.exe
+C:\Users\melis\OneDrive\Escritorio\SEE\serviciosstreaming\obj\Debug\serviciosstreaming.pdb
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\Elementos.ucComentarios.resources
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\Elementos.ucLog.resources
+C:\Users\LasAv\OneDrive\Documents\GitHub\Servicio-de-streaming\serviciosstreaming\obj\Debug\serviciosstreaming.frmEditarPelicula.resources
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\serviciosstreaming.exe.config
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\serviciosstreaming.exe
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\serviciosstreaming.pdb
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\Google.Protobuf.dll
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\Zstandard.Net.dll
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\System.Memory.dll
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\System.Buffers.dll
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\MySql.Data.xml
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\Google.Protobuf.pdb
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\Google.Protobuf.xml
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\System.Memory.xml
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\System.Buffers.xml
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.AssemblyReference.cache
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.frmAgregarActores.resources
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.frmAgregarDirectores.resources
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.frmAgregarGeneros.resources
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.frmAgregarPlataforma.resources
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.frmAgregarTipos.resources
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.frmEditarPelicula.resources
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.frmInicio.resources
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.frmAgregarPeliculas.resources
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.frmMostrarPelicula.resources
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.Principal.resources
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.Properties.Resources.resources
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\obj\Debug\Elementos.ucComentarios.resources
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\obj\Debug\Elementos.ucLog.resources
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.GenerateResource.cache
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.CoreCompileInputs.cache
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.csproj.CopyComplete
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.exe
+C:\Users\melis\OneDrive\Escritorio\Analizador\Nueva carpeta (2)\serviciosstreaming\obj\Debug\serviciosstreaming.pdb

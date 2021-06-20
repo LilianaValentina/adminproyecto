@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5EA715EF-AB23-4BD1-921E-4890D91CDDA6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>serviciosstreaming</RootNamespace>
+    <AssemblyName>serviciosstreaming</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.25.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Consultas.cs" />
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgregarActores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarActores.Designer.cs">
+      <DependentUpon>frmAgregarActores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgregarDirectores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarDirectores.Designer.cs">
+      <DependentUpon>frmAgregarDirectores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgregarGeneros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarGeneros.Designer.cs">
+      <DependentUpon>frmAgregarGeneros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgregarPlataforma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarPlataforma.Designer.cs">
+      <DependentUpon>frmAgregarPlataforma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgregarTipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarTipos.Designer.cs">
+      <DependentUpon>frmAgregarTipos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditarPelicula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditarPelicula.Designer.cs">
+      <DependentUpon>frmEditarPelicula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInicio.Designer.cs">
+      <DependentUpon>frmInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgregarPeliculas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarPeliculas.Designer.cs">
+      <DependentUpon>frmAgregarPeliculas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMostrarPelicula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMostrarPelicula.Designer.cs">
+      <DependentUpon>frmMostrarPelicula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Controles de Usuario\ucComentarios.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controles de Usuario\ucComentarios.Designer.cs">
+      <DependentUpon>ucComentarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controles de Usuario\ucLog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controles de Usuario\ucLog.Designer.cs">
+      <DependentUpon>ucLog.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmAgregarActores.resx">
+      <DependentUpon>frmAgregarActores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgregarDirectores.resx">
+      <DependentUpon>frmAgregarDirectores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgregarGeneros.resx">
+      <DependentUpon>frmAgregarGeneros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgregarPlataforma.resx">
+      <DependentUpon>frmAgregarPlataforma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgregarTipos.resx">
+      <DependentUpon>frmAgregarTipos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditarPelicula.resx">
+      <DependentUpon>frmEditarPelicula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInicio.resx">
+      <DependentUpon>frmInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgregarPeliculas.resx">
+      <DependentUpon>frmAgregarPeliculas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMostrarPelicula.resx">
+      <DependentUpon>frmMostrarPelicula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Controles de Usuario\ucComentarios.resx">
+      <DependentUpon>ucComentarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controles de Usuario\ucLog.resx">
+      <DependentUpon>ucLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\popcorn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\popcorn %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\claqueta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\portada.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\film-fotografico.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
